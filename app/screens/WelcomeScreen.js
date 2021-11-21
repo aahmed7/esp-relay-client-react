@@ -37,13 +37,13 @@ const styles = StyleSheet.create({
   },
   switchButton: {
     height: 70,
-    backgroundColor: "red",
+    backgroundColor: "#e74c3c",
     alignItems: "center",
     padding: 25,
   },
   weatherButton: {
     height: 70,
-    backgroundColor: "green",
+    backgroundColor: "#27ae60",
     alignItems: "center",
     padding: 25,
   },
